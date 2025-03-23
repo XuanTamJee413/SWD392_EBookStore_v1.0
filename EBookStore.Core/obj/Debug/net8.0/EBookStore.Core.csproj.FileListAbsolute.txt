@@ -1,0 +1,15 @@
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\bin\Debug\net8.0\EBookStore.Core.deps.json
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\bin\Debug\net8.0\EBookStore.Core.runtimeconfig.json
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\bin\Debug\net8.0\EBookStore.Core.dll
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\bin\Debug\net8.0\EBookStore.Core.pdb
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.csproj.AssemblyReference.cache
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.AssemblyInfoInputs.cache
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.AssemblyInfo.cs
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.csproj.CoreCompileInputs.cache
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.sourcelink.json
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.dll
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\refint\EBookStore.Core.dll
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.pdb
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.genruntimeconfig.cache
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\ref\EBookStore.Core.dll
