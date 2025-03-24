@@ -1,1 +1,51 @@
+# Bỏ qua các thư mục bin và obj (build output)
+bin/
+obj/
+
+# Bỏ qua các thư mục publish và package
+publish/
+*.publish/
+*.publishproj
+out/
+packages/
+!packages/repositories.config
+
+# Bỏ qua tệp log, debug, crash report
+*.log
+*.tlog
+*.pdb
+*.ilk
+hs_err_pid*
+
+# Bỏ qua file tạm, user-specific
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.ionide/
+
+# Bỏ qua các file cấu hình môi trường
+appsettings.json
+appsettings.*.json
+
+# Bỏ qua thư mục dependencies
+node_modules/
+bower_components/
+
+# Bỏ qua cache của Visual Studio
 .vs/
+*.cache
+*.ncb
+*.opendb
+
+# Bỏ qua lock file, backup
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Bỏ qua các file tạm khi làm việc
+*.swp
+*.swo
+*.swn
+Thumbs.db
