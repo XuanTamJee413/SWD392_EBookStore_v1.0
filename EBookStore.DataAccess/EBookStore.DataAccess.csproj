@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="IRepositories\" />
-    <Folder Include="Repositories\" />
+    <ProjectReference Include="..\EBookStore.Core\EBookStore.Core.csproj" />
   </ItemGroup>
 
 </Project>
