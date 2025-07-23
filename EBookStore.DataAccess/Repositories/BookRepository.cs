@@ -24,6 +24,7 @@ namespace EBookStore.DataAccess.Repositories
                 .Include(b => b.Category)
                 .ToListAsync();
         }
+
         public async Task<Book> GetBookByIdAsync(int id)
         {
             return await _context.Books

@@ -13,3 +13,5 @@ D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\
 D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.pdb
 D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\EBookStore.Core.genruntimeconfig.cache
 D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\obj\Debug\net8.0\ref\EBookStore.Core.dll
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\bin\Debug\net8.0\appsettings.Development.json
+D:\K17_KTPM\Ky_7\SWD392\SWD392_EBookStore_v1.0\EBookStore.Core\bin\Debug\net8.0\appsettings.json

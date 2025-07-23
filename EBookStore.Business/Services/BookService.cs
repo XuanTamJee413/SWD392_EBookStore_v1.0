@@ -23,6 +23,7 @@ namespace EBookStore.Business.Services
         {
             return await _bookRepository.GetAllBooksAsync();
         }
+
         public async Task<Book> GetBookByIdAsync(int id)
         {
             return await _bookRepository.GetBookByIdAsync(id);

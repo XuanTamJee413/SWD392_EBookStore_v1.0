@@ -49,19 +49,41 @@ namespace EBookStore.Presentation.Controllers.Staff
             return View();
         }
 
-        // POST: Books/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Title,Author,CategoryId,Description,Isbn,PublishedYear,ImageUrl")] Book book)
         {
+            if (string.IsNullOrWhiteSpace(book.Title))
+            {
+                ModelState.AddModelError("Title", "Tiêu đề không được để trống.");
+            }
+
+            if (string.IsNullOrWhiteSpace(book.Author))
+            {
+                ModelState.AddModelError("Author", "Tác giả không được để trống.");
+            }
+
+            if (book.CategoryId == 0)
+            {
+                ModelState.AddModelError("CategoryId", "Vui lòng chọn danh mục.");
+            }
+
+            if (string.IsNullOrWhiteSpace(book.Isbn))
+            {
+                ModelState.AddModelError("Isbn", "ISBN không được để trống.");
+            }
+
             if (ModelState.IsValid)
             {
                 await _bookService.AddBookAsync(book);
                 return RedirectToAction(nameof(Index));
             }
+
             ViewData["CategoryId"] = new SelectList(_bookService.GetCategories(), "Id", "Name", book.CategoryId);
             return View(book);
         }
+
+
 
         // GET: Books/Edit/5
         public async Task<IActionResult> Edit(int? id)
